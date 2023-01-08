@@ -37,16 +37,7 @@ In a new terminal window, navigate to the project directory and run the followin
 
 ### iOS
 
-Install the latest version of Xcode and set up an emulator or connect an iOS device to your computer.
-Run the following command in the terminal to start the Metro Bundler:
-
-    yarn start
-
-In a new terminal window, navigate to the project directory and run the following command to build the app and install it on your device:
-
-    yarn ios
-
-### Installing Pods
+#### Installing Pods
 
 This project uses CocoaPods to manage dependencies.
 
@@ -67,6 +58,18 @@ Build and run the app in Xcode.
 Note: If you encounter any issues during the pod installation, try running the following command to update your CocoaPods installation:
 
     gem install -n /usr/local/bin cocoapods
+
+#### Run on iOS
+
+Install the latest version of Xcode and set up an emulator or connect an iOS device to your computer.
+Run the following command in the terminal to start the Metro Bundler:
+
+    yarn start
+
+In a new terminal window, navigate to the project directory and run the following command to build the app and install it on your device:
+
+    yarn ios
+
 
 
 ## Libraries
