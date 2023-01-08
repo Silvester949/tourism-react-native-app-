@@ -12,7 +12,7 @@ This project aims to help turists finding new places to visit during they stay o
 
 Clone the repository:
 
-`git clone https://github.com/username/tourism-react-native-app-.git`
+    `git clone https://github.com/username/tourism-react-native-app-.git`
 
 Navigate to the project directory:
 
