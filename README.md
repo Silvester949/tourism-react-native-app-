@@ -3,14 +3,12 @@
 This project aims to help turists finding new places to visit during they stay on Albania.
 
 ## Requirements
----
 * [Node.js](https://nodejs.org/en/)
 * [React Native development environment](https://reactnative.dev/docs/getting-started)
 * [Watchman](https://facebook.github.io/watchman/)
 * [Cocoapods](https://cocoapods.org/)
 
 ## Setup
----
 
 Clone the repository:
 
@@ -72,23 +70,20 @@ Note: If you encounter any issues during the pod installation, try running the f
 
 
 ## Libraries
----
 
 This project includes the following libraries:
 
-Plop: A micro-generator framework that makes it easy for you to create custom generator templates to be used with the plop command-line tool.
+* [Plop](https://plopjs.com/): A micro-generator framework that makes it easy for you to create custom generator templates to be used with the plop command-line tool.
 
-Jest: A JavaScript testing library that allows you to write unit tests for your applications.
+* [Jest](https://jestjs.io/): A JavaScript testing library that allows you to write unit tests for your applications.
 
 ## Testing
----
 
 To run the tests for this project, use the following command:
 
 `yarn test`
 
 ## Generating Components and Pages
----
 
 To generate components and pages using Plop, use the following command:
 
