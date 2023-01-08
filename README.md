@@ -12,15 +12,15 @@ This project aims to help turists finding new places to visit during they stay o
 
 Clone the repository:
 
-    `git clone https://github.com/username/tourism-react-native-app-.git`
+    git clone https://github.com/username/tourism-react-native-app-.git
 
 Navigate to the project directory:
 
-    `cd tourism-react-native-app`
+    cd tourism-react-native-app
 
 Install the project dependencies:
 
-    `yarn install`
+    yarn install
 
 ## Running the app
 
@@ -29,22 +29,22 @@ Install the project dependencies:
 Install the latest version of Android Studio and set up an emulator or connect an Android device to your computer.
 Run the following command in the terminal to start the Metro Bundler, which is the packager responsible for building the JavaScript code and assets of the app:
 
-    `yarn start`
+    yarn start
 
 In a new terminal window, navigate to the project directory and run the following command to build the app and install it on your device:
 
-    `yarn android`
+    yarn android
 
 ### iOS
 
 Install the latest version of Xcode and set up an emulator or connect an iOS device to your computer.
 Run the following command in the terminal to start the Metro Bundler:
 
-    `yarn start`
+    yarn start
 
 In a new terminal window, navigate to the project directory and run the following command to build the app and install it on your device:
 
-    `yarn ios`
+    yarn ios
 
 ### Installing Pods
 
@@ -52,21 +52,21 @@ This project uses CocoaPods to manage dependencies.
 
 Navigate to the ios directory:
 
-    `cd ios`
+    cd ios
 
 Install the pods:
 
-    `pod install`
+    pod install
 
-Open the .xcworkspace file in Xcode:
+Open the `.xcworkspace` file in Xcode:
 
-    `open MyApp.xcworkspace`
+    open MyApp.xcworkspace
 
 Build and run the app in Xcode.
 
 Note: If you encounter any issues during the pod installation, try running the following command to update your CocoaPods installation:
 
-    `gem install -n /usr/local/bin cocoapods`
+    gem install -n /usr/local/bin cocoapods
 
 
 ## Libraries
@@ -81,10 +81,10 @@ This project includes the following libraries:
 
 To run the tests for this project, use the following command:
 
-    `yarn test`
+    yarn test
 
 ## Generating Components and Pages
 
 To generate components and pages using Plop, use the following command:
 
-    `yarn plop`
+    yarn plop
